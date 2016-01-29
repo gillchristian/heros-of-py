@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Ogre",
+    "lvl": 1,
+    "health": 6.0,
+    "damage": 3.0,
+    "armor": 2,
+    "bounty": {
+      "xp": 5,
+      "gold": 3
+    },
+    "habilities": ["none"]
+  },
+  {
+    "name": "Troll",
+    "lvl": 2,
+    "health":8.0,
+    "damage": 4.0,
+    "armor": 2.5,
+    "bounty": {
+      "xp": 8,
+      "gold": 5
+    },
+    "habilities": ["none"]
+  },
+  {
+    "name": "Satir",
+    "lvl": 3,
+    "health": 10.0,
+    "damage": 6.0,
+    "armor": 4.0,
+    "bounty": {
+      "xp": 8,
+      "gold": 6
+    },
+    "habilities": ["none"]
+  }
+]

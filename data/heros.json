@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Archer",
+    "health": 20.0,
+    "damage": 5.0,
+    "armor": 1.0,
+    "habilities": ["first turn not attacked","40% chance to ignore armor","10% chance to headshot (instant kill)"]
+  },
+  {
+    "name": "Fighter",
+    "health": 25.0,
+    "damage": 4.0,
+    "armor": 1.0,
+    "habilities": ["each turn damage increases 15%","20% chance to stun monster for 1 turn","10% life steal"]
+  },
+  {
+    "name": "Tank",
+    "health": 35.0,
+    "damage": 3.0,
+    "armor": 2.5,
+    "habilities": ["always attacks last","50% chance to return half damage on attack","20% chance to block 95% of the damage"]
+  },
+  {
+    "name": "Assassin",
+    "health": 15.0,
+    "damage": 6.0,
+    "armor": 2.0,
+    "habilities": ["always attacks first","20% chance to critical strike for 1.5x times damage","25% evassion chance"]
+  }
+]
