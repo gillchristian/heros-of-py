@@ -9,3 +9,5 @@ $ python ./main.py
 ```
 
 you will find it is very short and has A LOT of todo's, so any PRs & issues are welcomed :)
+
+I run it on `python v3.4`, there should not be big issues with `v2.x` but I am not sure.
